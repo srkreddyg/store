@@ -28,3 +28,4 @@ C:\Users\ADMIN\Desktop\Batch3\store\obj\Debug\net8.0\refint\store.dll
 C:\Users\ADMIN\Desktop\Batch3\store\obj\Debug\net8.0\store.pdb
 C:\Users\ADMIN\Desktop\Batch3\store\obj\Debug\net8.0\store.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\Batch3\store\obj\Debug\net8.0\ref\store.dll
+C:\Users\ADMIN\Desktop\Batch3\store\obj\Debug\net8.0\store.sourcelink.json
